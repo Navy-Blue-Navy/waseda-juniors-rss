@@ -1,0 +1,326 @@
+{
+  "https://www.wasedarugby.com/player/%e6%b7%ba%e6%b2%bc-%e5%a4%a7%e6%99%ba/": {
+    "name": "淺沼 大智",
+    "hiragana": "あさぬま だいち",
+    "position": "FL",
+    "grade": "3年",
+    "height": "173cm",
+    "weight": "81kg",
+    "link": "https://www.wasedarugby.com/player/%e6%b7%ba%e6%b2%bc-%e5%a4%a7%e6%99%ba/"
+  },
+  "https://www.wasedarugby.com/player/%e6%b1%a0%e7%94%b0-%e6%81%ad%e7%9b%9b/": {
+    "name": "池田 恭盛",
+    "hiragana": "いけだ きょうせい",
+    "position": "PR",
+    "grade": "3年",
+    "height": "175cm",
+    "weight": "99kg",
+    "link": "https://www.wasedarugby.com/player/%e6%b1%a0%e7%94%b0-%e6%81%ad%e7%9b%9b/"
+  },
+  "https://www.wasedarugby.com/player/%e6%a4%8d%e6%9c%a8-%e5%a4%aa%e4%b8%80/": {
+    "name": "植木 太一",
+    "hiragana": "うえき たいち",
+    "position": "FB",
+    "grade": "3年",
+    "height": "173cm",
+    "weight": "78kg",
+    "link": "https://www.wasedarugby.com/player/%e6%a4%8d%e6%9c%a8-%e5%a4%aa%e4%b8%80/"
+  },
+  "https://www.wasedarugby.com/player/%e9%81%a0%e8%97%a4-%e7%9b%b4%e8%bc%9d/": {
+    "name": "遠藤 直輝",
+    "hiragana": "えんどう なおき",
+    "position": "PR",
+    "grade": "3年",
+    "height": "175cm",
+    "weight": "98kg",
+    "link": "https://www.wasedarugby.com/player/%e9%81%a0%e8%97%a4-%e7%9b%b4%e8%bc%9d/"
+  },
+  "https://www.wasedarugby.com/player/%e5%b0%8f%e7%ac%a0%e5%8e%9f-%e6%ad%a3%e7%be%a9/": {
+    "name": "小笠原 正義",
+    "hiragana": "おがさわら まさよし",
+    "position": "HO",
+    "grade": "3年",
+    "height": "169cm",
+    "weight": "95kg",
+    "link": "https://www.wasedarugby.com/player/%e5%b0%8f%e7%ac%a0%e5%8e%9f-%e6%ad%a3%e7%be%a9/"
+  },
+  "https://www.wasedarugby.com/player/%e8%8f%8a%e5%b7%9d-%e8%bf%aa/": {
+    "name": "菊川 迪",
+    "hiragana": "きくかわ ゆう",
+    "position": "CTB",
+    "grade": "3年",
+    "height": "174cm",
+    "weight": "82kg",
+    "link": "https://www.wasedarugby.com/player/%e8%8f%8a%e5%b7%9d-%e8%bf%aa/"
+  },
+  "https://www.wasedarugby.com/player/%e4%b9%85%e6%88%91-%e7%9c%9f%e4%b9%8b%e4%bb%8b/": {
+    "name": "久我 真之介",
+    "hiragana": "くが しんのすけ",
+    "position": "FL",
+    "grade": "3年",
+    "height": "181cm",
+    "weight": "94kg",
+    "link": "https://www.wasedarugby.com/player/%e4%b9%85%e6%88%91-%e7%9c%9f%e4%b9%8b%e4%bb%8b/"
+  },
+  "https://www.wasedarugby.com/player/%e5%b0%8f%e6%9e%97-%e5%85%89%e6%99%b4/": {
+    "name": "小林 光晴",
+    "hiragana": "こばやし みつはる",
+    "position": "LO",
+    "grade": "3年",
+    "height": "188cm",
+    "weight": "99kg",
+    "link": "https://www.wasedarugby.com/player/%e5%b0%8f%e6%9e%97-%e5%85%89%e6%99%b4/"
+  },
+  "https://www.wasedarugby.com/player/%e6%ab%bb%e4%ba%95-%e7%bf%94%e7%9c%9f/": {
+    "name": "櫻井 翔真",
+    "hiragana": "さくらい しょうま",
+    "position": "WTB･副務",
+    "grade": "3年",
+    "height": "175cm",
+    "weight": "71kg",
+    "link": "https://www.wasedarugby.com/player/%e6%ab%bb%e4%ba%95-%e7%bf%94%e7%9c%9f/"
+  },
+  "https://www.wasedarugby.com/player/%e4%bd%90%e8%97%a4-%e9%9a%bc%e6%88%90/": {
+    "name": "佐藤 隼成",
+    "hiragana": "さとう じゅんせい",
+    "position": "SH･副務",
+    "grade": "3年",
+    "height": "174cm",
+    "weight": "71kg",
+    "link": "https://www.wasedarugby.com/player/%e4%bd%90%e8%97%a4-%e9%9a%bc%e6%88%90/"
+  },
+  "https://www.wasedarugby.com/player/%e5%b3%b6%e7%94%b0-%e9%9a%bc%e6%88%90/": {
+    "name": "島田 隼成",
+    "hiragana": "しまだ しゅんせい",
+    "position": "CTB",
+    "grade": "3年",
+    "height": "174cm",
+    "weight": "77kg",
+    "link": "https://www.wasedarugby.com/player/%e5%b3%b6%e7%94%b0-%e9%9a%bc%e6%88%90/"
+  },
+  "https://www.wasedarugby.com/player/%e5%9f%8e-%e5%a4%ae%e7%a5%90/": {
+    "name": "城 央祐",
+    "hiragana": "しろ おうすけ",
+    "position": "FL",
+    "grade": "3年",
+    "height": "185cm",
+    "weight": "99kg",
+    "link": "https://www.wasedarugby.com/player/%e5%9f%8e-%e5%a4%ae%e7%a5%90/"
+  },
+  "https://www.wasedarugby.com/player/%e6%9d%89%e6%9d%91-%e5%88%a9%e6%9c%97/": {
+    "name": "杉村 利朗",
+    "hiragana": "すぎむら りろう",
+    "position": "HO",
+    "grade": "3年",
+    "height": "182cm",
+    "weight": "105kg",
+    "link": "https://www.wasedarugby.com/player/%e6%9d%89%e6%9d%91-%e5%88%a9%e6%9c%97/"
+  },
+  "https://www.wasedarugby.com/player/%e9%88%b4%e6%9c%a8-%e5%bd%aa%e9%a6%ac/": {
+    "name": "鈴木 彪馬",
+    "hiragana": "すずき ふうま",
+    "position": "CTB",
+    "grade": "3年",
+    "height": "170cm",
+    "weight": "73kg",
+    "link": "https://www.wasedarugby.com/player/%e9%88%b4%e6%9c%a8-%e5%bd%aa%e9%a6%ac/"
+  },
+  "https://www.wasedarugby.com/player/%e5%a4%9a%e7%94%b0-%e9%99%bd%e9%81%93/": {
+    "name": "多田 陽道",
+    "hiragana": "ただ はるみち",
+    "position": "FL",
+    "grade": "3年",
+    "height": "182cm",
+    "weight": "84kg",
+    "link": "https://www.wasedarugby.com/player/%e5%a4%9a%e7%94%b0-%e9%99%bd%e9%81%93/"
+  },
+  "https://www.wasedarugby.com/player/%e7%94%b0%e4%b8%ad-%e5%81%a5%e5%bf%83/": {
+    "name": "田中 健心",
+    "hiragana": "たなか けんしん",
+    "position": "HO",
+    "grade": "3年",
+    "height": "173cm",
+    "weight": "95kg",
+    "link": "https://www.wasedarugby.com/player/%e7%94%b0%e4%b8%ad-%e5%81%a5%e5%bf%83/"
+  },
+  "https://www.wasedarugby.com/player/%e7%94%b0%e4%b8%ad-%e5%81%a5%e6%83%b3/": {
+    "name": "田中 健想",
+    "hiragana": "たなか けんぞう",
+    "position": "WTB",
+    "grade": "3年",
+    "height": "172cm",
+    "weight": "77kg",
+    "link": "https://www.wasedarugby.com/player/%e7%94%b0%e4%b8%ad-%e5%81%a5%e6%83%b3/"
+  },
+  "https://www.wasedarugby.com/player/%e7%94%b0%e4%b8%ad-%e5%a4%a7%e6%96%97/": {
+    "name": "田中 大斗",
+    "hiragana": "たなか だいと",
+    "position": "SO",
+    "grade": "3年",
+    "height": "169cm",
+    "weight": "77kg",
+    "link": "https://www.wasedarugby.com/player/%e7%94%b0%e4%b8%ad-%e5%a4%a7%e6%96%97/"
+  },
+  "https://www.wasedarugby.com/player/%e7%94%b0%e8%83%bd-%e9%96%8b%e6%88%90/": {
+    "name": "田能 開成",
+    "hiragana": "たのう かいせい",
+    "position": "PR",
+    "grade": "3年",
+    "height": "187cm",
+    "weight": "110kg",
+    "link": "https://www.wasedarugby.com/player/%e7%94%b0%e8%83%bd-%e9%96%8b%e6%88%90/"
+  },
+  "https://www.wasedarugby.com/player/%e5%af%ba%e7%94%b0-%e7%b5%90/": {
+    "name": "寺田 結",
+    "hiragana": "てらだ ゆう",
+    "position": "SO",
+    "grade": "3年",
+    "height": "171cm",
+    "weight": "75kg",
+    "link": "https://www.wasedarugby.com/player/%e5%af%ba%e7%94%b0-%e7%b5%90/"
+  },
+  "https://www.wasedarugby.com/player/%e8%a5%bf%e6%b5%a6-%e5%b2%b3%e5%84%aa/": {
+    "name": "西浦 岳優",
+    "hiragana": "にしうら たけひろ",
+    "position": "WTB",
+    "grade": "3年",
+    "height": "175cm",
+    "weight": "78kg",
+    "link": "https://www.wasedarugby.com/player/%e8%a5%bf%e6%b5%a6-%e5%b2%b3%e5%84%aa/"
+  },
+  "https://www.wasedarugby.com/player/%e8%83%bd%e7%94%ba-%e5%85%89/": {
+    "name": "能町 光",
+    "hiragana": "のうまち ひかる",
+    "position": "CTB",
+    "grade": "3年",
+    "height": "172cm",
+    "weight": "75kg",
+    "link": "https://www.wasedarugby.com/player/%e8%83%bd%e7%94%ba-%e5%85%89/"
+  },
+  "https://www.wasedarugby.com/player/%e6%9c%8d%e9%83%a8-%e4%ba%ae%e5%a4%aa/": {
+    "name": "服部 亮太",
+    "hiragana": "はっとり りょうた",
+    "position": "SO",
+    "grade": "3年",
+    "height": "178cm",
+    "weight": "80kg",
+    "link": "https://www.wasedarugby.com/player/%e6%9c%8d%e9%83%a8-%e4%ba%ae%e5%a4%aa/"
+  },
+  "https://www.wasedarugby.com/player/%e5%8e%9f-%e5%b9%b9%e5%8f%b8/": {
+    "name": "原 幹司",
+    "hiragana": "はら かんじ",
+    "position": "PR",
+    "grade": "3年",
+    "height": "179cm",
+    "weight": "104kg",
+    "link": "https://www.wasedarugby.com/player/%e5%8e%9f-%e5%b9%b9%e5%8f%b8/"
+  },
+  "https://www.wasedarugby.com/player/%e5%b9%b3%e9%87%8e-%e4%bb%81/": {
+    "name": "平野 仁",
+    "hiragana": "ひらの じん",
+    "position": "NO8",
+    "grade": "3年",
+    "height": "192cm",
+    "weight": "92kg",
+    "link": "https://www.wasedarugby.com/player/%e5%b9%b3%e9%87%8e-%e4%bb%81/"
+  },
+  "https://www.wasedarugby.com/player/%e8%97%a4%e4%ba%95-%e9%9b%84%e5%a3%ab/": {
+    "name": "藤井 雄士",
+    "hiragana": "ふじい ゆうと",
+    "position": "CTB",
+    "grade": "3年",
+    "height": "175cm",
+    "weight": "90kg",
+    "link": "https://www.wasedarugby.com/player/%e8%97%a4%e4%ba%95-%e9%9b%84%e5%a3%ab/"
+  },
+  "https://www.wasedarugby.com/player/%e7%b4%b0%e7%94%b0-%e6%82%a0%e4%bb%8b/": {
+    "name": "細田 悠介",
+    "hiragana": "ほそだ ゆうすけ",
+    "position": "FB",
+    "grade": "3年",
+    "height": "170cm",
+    "weight": "80kg",
+    "link": "https://www.wasedarugby.com/player/%e7%b4%b0%e7%94%b0-%e6%82%a0%e4%bb%8b/"
+  },
+  "https://www.wasedarugby.com/player/%e5%89%8d%e7%94%b0-%e9%ba%9f%e5%a4%aa%e6%9c%97/": {
+    "name": "前田 麟太朗",
+    "hiragana": "まえだ りんたろう",
+    "position": "PR",
+    "grade": "3年",
+    "height": "177cm",
+    "weight": "110kg",
+    "link": "https://www.wasedarugby.com/player/%e5%89%8d%e7%94%b0-%e9%ba%9f%e5%a4%aa%e6%9c%97/"
+  },
+  "https://www.wasedarugby.com/player/%e7%89%a7-%e9%8c%ac%e5%a4%aa%e9%83%8e/": {
+    "name": "牧 錬太郎",
+    "hiragana": "まき れんたろう",
+    "position": "FL",
+    "grade": "3年",
+    "height": "174cm",
+    "weight": "93kg",
+    "link": "https://www.wasedarugby.com/player/%e7%89%a7-%e9%8c%ac%e5%a4%aa%e9%83%8e/"
+  },
+  "https://www.wasedarugby.com/player/%e6%9d%be%e6%be%a4-%e6%85%b6/": {
+    "name": "松澤 慶",
+    "hiragana": "まつざわ けい",
+    "position": "LO",
+    "grade": "3年",
+    "height": "188cm",
+    "weight": "101kg",
+    "link": "https://www.wasedarugby.com/player/%e6%9d%be%e6%be%a4-%e6%85%b6/"
+  },
+  "https://www.wasedarugby.com/player/%e5%ae%ae%e4%b8%8b-%e7%be%9a/": {
+    "name": "宮下 羚",
+    "hiragana": "みやした りょう",
+    "position": "SH",
+    "grade": "3年",
+    "height": "170cm",
+    "weight": "68kg",
+    "link": "https://www.wasedarugby.com/player/%e5%ae%ae%e4%b8%8b-%e7%be%9a/"
+  },
+  "https://www.wasedarugby.com/player/%e5%ae%89%e5%b2%a1-%e5%8f%b6%e5%a4%a2/": {
+    "name": "安岡 叶夢",
+    "hiragana": "やすおか かなむ",
+    "position": "SH",
+    "grade": "3年",
+    "height": "169cm",
+    "weight": "73kg",
+    "link": "https://www.wasedarugby.com/player/%e5%ae%89%e5%b2%a1-%e5%8f%b6%e5%a4%a2/"
+  },
+  "https://www.wasedarugby.com/player/%e5%ae%89%e6%81%92-%e5%bf%a0%e4%ba%ba/": {
+    "name": "安恒 忠人",
+    "hiragana": "やすつね ただと",
+    "position": "FL",
+    "grade": "3年",
+    "height": "171cm",
+    "weight": "76kg",
+    "link": "https://www.wasedarugby.com/player/%e5%ae%89%e6%81%92-%e5%bf%a0%e4%ba%ba/"
+  },
+  "https://www.wasedarugby.com/player/%e5%b1%b1%e4%b8%8b-%e6%81%b5%e5%a3%ab%e6%9c%97/": {
+    "name": "山下 恵士朗",
+    "hiragana": "やました けいしろう",
+    "position": "WTB",
+    "grade": "3年",
+    "height": "170cm",
+    "weight": "71kg",
+    "link": "https://www.wasedarugby.com/player/%e5%b1%b1%e4%b8%8b-%e6%81%b5%e5%a3%ab%e6%9c%97/"
+  },
+  "https://www.wasedarugby.com/player/%e9%be%8d-%e5%ba%b7%e4%b9%8b%e5%8a%a9/": {
+    "name": "龍 康之助",
+    "hiragana": "りゅう こうのすけ",
+    "position": "NO8",
+    "grade": "3年",
+    "height": "182cm",
+    "weight": "90kg",
+    "link": "https://www.wasedarugby.com/player/%e9%be%8d-%e5%ba%b7%e4%b9%8b%e5%8a%a9/"
+  },
+  "https://www.wasedarugby.com/player/%e6%b8%a1%e9%82%8a-%e6%99%83%e6%a8%b9/": {
+    "name": "渡邊 晃樹",
+    "hiragana": "わたなべ こうき",
+    "position": "SH",
+    "grade": "3年",
+    "height": "170cm",
+    "weight": "68kg",
+    "link": "https://www.wasedarugby.com/player/%e6%b8%a1%e9%82%8a-%e6%99%83%e6%a8%b9/"
+  }
+}
